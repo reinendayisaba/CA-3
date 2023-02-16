@@ -18,7 +18,7 @@ There are a few libraries, modules, and classes that need to be imported to be a
 
 **How to install and run the code along with datasets to be able to run the program successfully**
 
-To be able to install and run the code successfully, the dataset must be read as a csv file into the notebook and all the needed libraries and modules need to be installed/imported. Each block of code must also be run individually and in a sequential order (one after another). 
+To be able to install and run the code successfully, the dataset must be read as a csv file into the notebook and all the needed libraries and modules need to be installed/imported. Each block of code must also be run individually and in a sequential order (one after another). To avoid any errors while using Graphviz to visualize the decision tree, I used Google Colab instead of Juypter notebook.
 
 **Acknowledgement:**
 The path used to access the data was provided by Prof. Arin Brahma (GitHub username: ArinB) using the link "https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true". 
